@@ -1,0 +1,11 @@
+risk_rank,job_role,department,headcount,leavers,attrition_pct
+1,Sales Representative,Sales,83,33,39.8
+2,Laboratory Technician,Research & Development,259,62,23.9
+3,Human Resources,Human Resources,52,12,23.1
+4,Sales Executive,Sales,326,57,17.5
+5,Research Scientist,Research & Development,292,47,16.1
+6,Manufacturing Director,Research & Development,145,10,6.9
+7,Healthcare Representative,Research & Development,131,9,6.9
+8,Manager,Research & Development,54,3,5.6
+9,Manager,Sales,37,2,5.4
+10,Research Director,Research & Development,80,2,2.5

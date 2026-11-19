@@ -1,0 +1,16 @@
+job_level,time_since_promotion,headcount,attrition_pct
+1,Promoted this year,260,30.0
+1,1-2 yrs,222,23.0
+1,3+ yrs,61,23.0
+2,Promoted this year,214,10.3
+2,1-2 yrs,189,9.0
+2,3+ yrs,131,9.9
+3,Promoted this year,69,13.0
+3,1-2 yrs,56,10.7
+3,3+ yrs,93,18.3
+4,Promoted this year,23,4.3
+4,1-2 yrs,28,0.0
+4,3+ yrs,55,7.3
+5,Promoted this year,15,0.0
+5,1-2 yrs,21,9.5
+5,3+ yrs,33,9.1

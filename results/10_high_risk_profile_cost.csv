@@ -1,0 +1,3 @@
+segment,headcount,historical_attrition_pct,still_employed,expected_replacement_cost_usd
+High risk (2+ flags),584,24.8,439,4264417
+Lower risk,886,10.4,794,3465399
